@@ -61,9 +61,9 @@
 
 ## 📌 Pinned Projects:
 - ✨ [WelloCare – Caregiving Platform](https://wellocare.vercel.app)
-- 🏠 [Real Estate Marketplace – Enterprise-Grade Listing Engine](#)
-- 🔐 [Admin Dashboard – Secure Role-Based Panel](#)
-- 📊 [Corporate Analyzer – Financial Insights](#)
+- 🏠 [Real Estate Marketplace – Enterprise-Grade Listing Engine](https://www.imperialproperty.in/)
+- 🔐 [Admin Dashboard – Secure Role-Based Panel](https://imperial-property.vercel.app/)
+- 📊 [Diamonds & Jewellery](https://happy-gems-frontend.vercel.app/)
 
 ---
 
