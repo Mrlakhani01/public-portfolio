@@ -18,8 +18,8 @@
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brijesh.lakhani1@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/brijesh-lakhani-68272a1a2))
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/BrijeshLakhan10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/brijesh-lakhani-68272a1a2)])
+[![Twitter](https://img.shields.io/twitter/follow/BrijeshLakhani?style=social)](https://x.com/BrijeshLakhan10)
 
 ---
 
