@@ -17,9 +17,9 @@
 ---
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourname@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brijesh.lakhani1@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/brijesh-lakhani-68272a1a2))
+[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/BrijeshLakhan10)
 
 ---
 
@@ -48,14 +48,14 @@
 
 # 📈 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=brijeshlakhani&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshlakhani&theme=transparent&hide_border=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=brijeshlakhani&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Mrlakhani01&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlakhani01&theme=transparent&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Mrlakhani01&theme=transparent&hide_border=false)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brijeshlakhani&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mrlakhani01&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
